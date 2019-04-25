@@ -9,7 +9,6 @@ export default function Dashboard({ match }) {
 
   let loadLocalStorage = () => {
     let doggyDog = localStorage.getItem('doggyData')
-    console.log(JSON.parse(doggyDog));
     doggyDog = !doggyDog ? [] : JSON.parse(doggyDog)
     return doggyDog.map(dog => (
       <div
@@ -35,8 +34,6 @@ export default function Dashboard({ match }) {
     <div
       className='container'
     >
-
-
       <div className="row">
         <button
           className="btn btn-primary"

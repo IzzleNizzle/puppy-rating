@@ -8,8 +8,8 @@ import Dashboard from './pages/Dashboard'
 export default function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
+      <NavBar />
       <Switch>
-        <NavBar />
         <Route exact path="/" component={Home} />
         <Route
           path="/dashboard"
