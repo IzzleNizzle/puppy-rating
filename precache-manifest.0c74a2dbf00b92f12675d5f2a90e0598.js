@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2486b231594ab35b8e48bc189921df3",
+    "revision": "37dbc2c266a758c0cf0e677f80c9d789",
     "url": "/puppy-rating/index.html"
   },
   {
-    "revision": "4c09ae8152537daf9f4b",
+    "revision": "c951c93de023051553e0",
     "url": "/puppy-rating/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "dfdebfb79401fd977542",
+    "revision": "07bbd9225ec1e9493f8e",
     "url": "/puppy-rating/static/css/main.795991f2.chunk.css"
   },
   {
-    "revision": "4c09ae8152537daf9f4b",
-    "url": "/puppy-rating/static/js/2.3f387bab.chunk.js"
+    "revision": "c951c93de023051553e0",
+    "url": "/puppy-rating/static/js/2.753876c1.chunk.js"
   },
   {
-    "revision": "dfdebfb79401fd977542",
-    "url": "/puppy-rating/static/js/main.b93e1fb2.chunk.js"
+    "revision": "07bbd9225ec1e9493f8e",
+    "url": "/puppy-rating/static/js/main.3366dcc1.chunk.js"
   },
   {
     "revision": "56cb8276d3b6751ce1fc",
