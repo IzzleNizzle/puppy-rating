@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/puppy-rating/static/css/main.795991f2.chunk.css",
+    "main.js": "/puppy-rating/static/js/main.308c7fcd.chunk.js",
+    "main.js.map": "/puppy-rating/static/js/main.308c7fcd.chunk.js.map",
+    "runtime~main.js": "/puppy-rating/static/js/runtime~main.015ab67a.js",
+    "runtime~main.js.map": "/puppy-rating/static/js/runtime~main.015ab67a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/puppy-rating/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3f387bab.chunk.js": "/puppy-rating/static/js/2.3f387bab.chunk.js",
+    "static/js/2.3f387bab.chunk.js.map": "/puppy-rating/static/js/2.3f387bab.chunk.js.map",
+    "index.html": "/puppy-rating/index.html",
+    "precache-manifest.de34ce32668a743f046e03094b9f6e04.js": "/puppy-rating/precache-manifest.de34ce32668a743f046e03094b9f6e04.js",
+    "service-worker.js": "/puppy-rating/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/puppy-rating/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.795991f2.chunk.css.map": "/puppy-rating/static/css/main.795991f2.chunk.css.map"
+  }
+}
