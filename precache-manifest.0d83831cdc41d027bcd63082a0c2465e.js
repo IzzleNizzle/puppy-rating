@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbcaf66d233d3caf09b33d153fe536d9",
+    "revision": "d2486b231594ab35b8e48bc189921df3",
     "url": "/puppy-rating/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/puppy-rating/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "940aea4d7a964e44a8ff",
+    "revision": "dfdebfb79401fd977542",
     "url": "/puppy-rating/static/css/main.795991f2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/puppy-rating/static/js/2.3f387bab.chunk.js"
   },
   {
-    "revision": "940aea4d7a964e44a8ff",
-    "url": "/puppy-rating/static/js/main.308c7fcd.chunk.js"
+    "revision": "dfdebfb79401fd977542",
+    "url": "/puppy-rating/static/js/main.b93e1fb2.chunk.js"
   },
   {
     "revision": "56cb8276d3b6751ce1fc",
